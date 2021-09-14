@@ -1,8 +1,8 @@
-## Olá, eu sou o João Andrade Jr!! Hello, i'm Joaão Andrade Jr.!!
+## Olá, eu sou o João Andrade Jr!! Hello, i'm João Andrade Jr.!!
 
  <div>
   <a href="https://github.com/joaoAndradeJr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?   username=joaoAndradeJr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoAndradeJr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoAndradeJr&layout=compact&langs_count=7&theme=dracula"/>
  </div>
  
